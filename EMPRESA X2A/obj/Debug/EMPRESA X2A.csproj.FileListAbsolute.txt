@@ -48,3 +48,103 @@ C:\Users\tayll\source\repos\EMPRESA X2A\EMPRESA X2A\bin\Debug\System.Runtime.Com
 C:\Users\tayll\source\repos\EMPRESA X2A\EMPRESA X2A\bin\Debug\System.Threading.Tasks.Extensions.xml
 C:\Users\tayll\source\repos\EMPRESA X2A\EMPRESA X2A\obj\Debug\EMPRESA X2A.csproj.SuggestedBindingRedirects.cache
 C:\Users\tayll\source\repos\EMPRESA X2A\EMPRESA X2A\obj\Debug\EMPRESA X2A.exe.config
+C:\Users\ducil\Downloads\Taylla\empresax2a\EMPRESA X2A\bin\Debug\EMPRESA X2A.exe.config
+C:\Users\ducil\Downloads\Taylla\empresax2a\EMPRESA X2A\bin\Debug\EMPRESA X2A.exe
+C:\Users\ducil\Downloads\Taylla\empresax2a\EMPRESA X2A\bin\Debug\EMPRESA X2A.pdb
+C:\Users\ducil\Downloads\Taylla\empresax2a\EMPRESA X2A\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\ducil\Downloads\Taylla\empresax2a\EMPRESA X2A\bin\Debug\Google.Protobuf.dll
+C:\Users\ducil\Downloads\Taylla\empresax2a\EMPRESA X2A\bin\Debug\Guna.UI2.dll
+C:\Users\ducil\Downloads\Taylla\empresax2a\EMPRESA X2A\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\ducil\Downloads\Taylla\empresax2a\EMPRESA X2A\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\ducil\Downloads\Taylla\empresax2a\EMPRESA X2A\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\ducil\Downloads\Taylla\empresax2a\EMPRESA X2A\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ducil\Downloads\Taylla\empresax2a\EMPRESA X2A\bin\Debug\MySql.Data.dll
+C:\Users\ducil\Downloads\Taylla\empresax2a\EMPRESA X2A\bin\Debug\System.Buffers.dll
+C:\Users\ducil\Downloads\Taylla\empresax2a\EMPRESA X2A\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\ducil\Downloads\Taylla\empresax2a\EMPRESA X2A\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ducil\Downloads\Taylla\empresax2a\EMPRESA X2A\bin\Debug\System.IO.Pipelines.dll
+C:\Users\ducil\Downloads\Taylla\empresax2a\EMPRESA X2A\bin\Debug\System.Memory.dll
+C:\Users\ducil\Downloads\Taylla\empresax2a\EMPRESA X2A\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ducil\Downloads\Taylla\empresax2a\EMPRESA X2A\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ducil\Downloads\Taylla\empresax2a\EMPRESA X2A\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ducil\Downloads\Taylla\empresax2a\EMPRESA X2A\bin\Debug\ZstdSharp.dll
+C:\Users\ducil\Downloads\Taylla\empresax2a\EMPRESA X2A\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\ducil\Downloads\Taylla\empresax2a\EMPRESA X2A\bin\Debug\Google.Protobuf.pdb
+C:\Users\ducil\Downloads\Taylla\empresax2a\EMPRESA X2A\bin\Debug\Google.Protobuf.xml
+C:\Users\ducil\Downloads\Taylla\empresax2a\EMPRESA X2A\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\ducil\Downloads\Taylla\empresax2a\EMPRESA X2A\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\ducil\Downloads\Taylla\empresax2a\EMPRESA X2A\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\ducil\Downloads\Taylla\empresax2a\EMPRESA X2A\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ducil\Downloads\Taylla\empresax2a\EMPRESA X2A\bin\Debug\MySql.Data.xml
+C:\Users\ducil\Downloads\Taylla\empresax2a\EMPRESA X2A\bin\Debug\System.Buffers.xml
+C:\Users\ducil\Downloads\Taylla\empresax2a\EMPRESA X2A\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ducil\Downloads\Taylla\empresax2a\EMPRESA X2A\bin\Debug\System.IO.Pipelines.xml
+C:\Users\ducil\Downloads\Taylla\empresax2a\EMPRESA X2A\bin\Debug\System.Memory.xml
+C:\Users\ducil\Downloads\Taylla\empresax2a\EMPRESA X2A\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ducil\Downloads\Taylla\empresax2a\EMPRESA X2A\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ducil\Downloads\Taylla\empresax2a\EMPRESA X2A\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ducil\Downloads\Taylla\empresax2a\EMPRESA X2A\obj\Debug\EMPRESA X2A.csproj.AssemblyReference.cache
+C:\Users\ducil\Downloads\Taylla\empresax2a\EMPRESA X2A\obj\Debug\EMPRESA X2A.csproj.SuggestedBindingRedirects.cache
+C:\Users\ducil\Downloads\Taylla\empresax2a\EMPRESA X2A\obj\Debug\EMPRESA X2A.exe.config
+C:\Users\ducil\Downloads\Taylla\empresax2a\EMPRESA X2A\obj\Debug\EMPRESA_X2A.novaEmpresa.resources
+C:\Users\ducil\Downloads\Taylla\empresax2a\EMPRESA X2A\obj\Debug\EMPRESA_X2A.novoFuncionario.resources
+C:\Users\ducil\Downloads\Taylla\empresax2a\EMPRESA X2A\obj\Debug\EMPRESA_X2A.Inicio.resources
+C:\Users\ducil\Downloads\Taylla\empresax2a\EMPRESA X2A\obj\Debug\EMPRESA_X2A.Empresa.resources
+C:\Users\ducil\Downloads\Taylla\empresax2a\EMPRESA X2A\obj\Debug\EMPRESA_X2A.Funcionario.resources
+C:\Users\ducil\Downloads\Taylla\empresax2a\EMPRESA X2A\obj\Debug\EMPRESA_X2A.Menu.resources
+C:\Users\ducil\Downloads\Taylla\empresax2a\EMPRESA X2A\obj\Debug\EMPRESA_X2A.Properties.Resources.resources
+C:\Users\ducil\Downloads\Taylla\empresax2a\EMPRESA X2A\obj\Debug\EMPRESA X2A.csproj.GenerateResource.cache
+C:\Users\ducil\Downloads\Taylla\empresax2a\EMPRESA X2A\obj\Debug\EMPRESA X2A.csproj.CoreCompileInputs.cache
+C:\Users\ducil\Downloads\Taylla\empresax2a\EMPRESA X2A\obj\Debug\EMPRESA X2A.csproj.CopyComplete
+C:\Users\ducil\Downloads\Taylla\empresax2a\EMPRESA X2A\obj\Debug\EMPRESA X2A.exe
+C:\Users\ducil\Downloads\Taylla\empresax2a\EMPRESA X2A\obj\Debug\EMPRESA X2A.pdb
+C:\Users\tayll\source\repos\EMPRESA X2A\empresax2a\EMPRESA X2A\bin\Debug\EMPRESA X2A.exe.config
+C:\Users\tayll\source\repos\EMPRESA X2A\empresax2a\EMPRESA X2A\bin\Debug\EMPRESA X2A.exe
+C:\Users\tayll\source\repos\EMPRESA X2A\empresax2a\EMPRESA X2A\bin\Debug\EMPRESA X2A.pdb
+C:\Users\tayll\source\repos\EMPRESA X2A\empresax2a\EMPRESA X2A\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\tayll\source\repos\EMPRESA X2A\empresax2a\EMPRESA X2A\bin\Debug\Google.Protobuf.dll
+C:\Users\tayll\source\repos\EMPRESA X2A\empresax2a\EMPRESA X2A\bin\Debug\Guna.UI2.dll
+C:\Users\tayll\source\repos\EMPRESA X2A\empresax2a\EMPRESA X2A\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\tayll\source\repos\EMPRESA X2A\empresax2a\EMPRESA X2A\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\tayll\source\repos\EMPRESA X2A\empresax2a\EMPRESA X2A\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\tayll\source\repos\EMPRESA X2A\empresax2a\EMPRESA X2A\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\tayll\source\repos\EMPRESA X2A\empresax2a\EMPRESA X2A\bin\Debug\MySql.Data.dll
+C:\Users\tayll\source\repos\EMPRESA X2A\empresax2a\EMPRESA X2A\bin\Debug\System.Buffers.dll
+C:\Users\tayll\source\repos\EMPRESA X2A\empresax2a\EMPRESA X2A\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\tayll\source\repos\EMPRESA X2A\empresax2a\EMPRESA X2A\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\tayll\source\repos\EMPRESA X2A\empresax2a\EMPRESA X2A\bin\Debug\System.IO.Pipelines.dll
+C:\Users\tayll\source\repos\EMPRESA X2A\empresax2a\EMPRESA X2A\bin\Debug\System.Memory.dll
+C:\Users\tayll\source\repos\EMPRESA X2A\empresax2a\EMPRESA X2A\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\tayll\source\repos\EMPRESA X2A\empresax2a\EMPRESA X2A\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\tayll\source\repos\EMPRESA X2A\empresax2a\EMPRESA X2A\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\tayll\source\repos\EMPRESA X2A\empresax2a\EMPRESA X2A\bin\Debug\ZstdSharp.dll
+C:\Users\tayll\source\repos\EMPRESA X2A\empresax2a\EMPRESA X2A\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\tayll\source\repos\EMPRESA X2A\empresax2a\EMPRESA X2A\bin\Debug\Google.Protobuf.pdb
+C:\Users\tayll\source\repos\EMPRESA X2A\empresax2a\EMPRESA X2A\bin\Debug\Google.Protobuf.xml
+C:\Users\tayll\source\repos\EMPRESA X2A\empresax2a\EMPRESA X2A\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\tayll\source\repos\EMPRESA X2A\empresax2a\EMPRESA X2A\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\tayll\source\repos\EMPRESA X2A\empresax2a\EMPRESA X2A\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\tayll\source\repos\EMPRESA X2A\empresax2a\EMPRESA X2A\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\tayll\source\repos\EMPRESA X2A\empresax2a\EMPRESA X2A\bin\Debug\MySql.Data.xml
+C:\Users\tayll\source\repos\EMPRESA X2A\empresax2a\EMPRESA X2A\bin\Debug\System.Buffers.xml
+C:\Users\tayll\source\repos\EMPRESA X2A\empresax2a\EMPRESA X2A\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\tayll\source\repos\EMPRESA X2A\empresax2a\EMPRESA X2A\bin\Debug\System.IO.Pipelines.xml
+C:\Users\tayll\source\repos\EMPRESA X2A\empresax2a\EMPRESA X2A\bin\Debug\System.Memory.xml
+C:\Users\tayll\source\repos\EMPRESA X2A\empresax2a\EMPRESA X2A\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\tayll\source\repos\EMPRESA X2A\empresax2a\EMPRESA X2A\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\tayll\source\repos\EMPRESA X2A\empresax2a\EMPRESA X2A\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\tayll\source\repos\EMPRESA X2A\empresax2a\EMPRESA X2A\obj\Debug\EMPRESA X2A.csproj.AssemblyReference.cache
+C:\Users\tayll\source\repos\EMPRESA X2A\empresax2a\EMPRESA X2A\obj\Debug\EMPRESA X2A.csproj.SuggestedBindingRedirects.cache
+C:\Users\tayll\source\repos\EMPRESA X2A\empresax2a\EMPRESA X2A\obj\Debug\EMPRESA X2A.exe.config
+C:\Users\tayll\source\repos\EMPRESA X2A\empresax2a\EMPRESA X2A\obj\Debug\EMPRESA_X2A.novaEmpresa.resources
+C:\Users\tayll\source\repos\EMPRESA X2A\empresax2a\EMPRESA X2A\obj\Debug\EMPRESA_X2A.novoFuncionario.resources
+C:\Users\tayll\source\repos\EMPRESA X2A\empresax2a\EMPRESA X2A\obj\Debug\EMPRESA_X2A.Inicio.resources
+C:\Users\tayll\source\repos\EMPRESA X2A\empresax2a\EMPRESA X2A\obj\Debug\EMPRESA_X2A.Empresa.resources
+C:\Users\tayll\source\repos\EMPRESA X2A\empresax2a\EMPRESA X2A\obj\Debug\EMPRESA_X2A.Funcionario.resources
+C:\Users\tayll\source\repos\EMPRESA X2A\empresax2a\EMPRESA X2A\obj\Debug\EMPRESA_X2A.Menu.resources
+C:\Users\tayll\source\repos\EMPRESA X2A\empresax2a\EMPRESA X2A\obj\Debug\EMPRESA_X2A.Properties.Resources.resources
+C:\Users\tayll\source\repos\EMPRESA X2A\empresax2a\EMPRESA X2A\obj\Debug\EMPRESA X2A.csproj.GenerateResource.cache
+C:\Users\tayll\source\repos\EMPRESA X2A\empresax2a\EMPRESA X2A\obj\Debug\EMPRESA X2A.csproj.CoreCompileInputs.cache
+C:\Users\tayll\source\repos\EMPRESA X2A\empresax2a\EMPRESA X2A\obj\Debug\EMPRESA X2A.csproj.CopyComplete
+C:\Users\tayll\source\repos\EMPRESA X2A\empresax2a\EMPRESA X2A\obj\Debug\EMPRESA X2A.exe
+C:\Users\tayll\source\repos\EMPRESA X2A\empresax2a\EMPRESA X2A\obj\Debug\EMPRESA X2A.pdb

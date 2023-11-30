@@ -9,9 +9,7 @@ namespace EMPRESA_X2A.Configuracoes
         private string _servidor = "localhost";
 
         private string _porta = "3306";
-
-        private string _usuario = "root";
-
+        private string _ususario = "root";
         private string _senha = "root";
 
         private string _bancoDadosNome = "Empresa_x2a";
@@ -24,7 +22,7 @@ namespace EMPRESA_X2A.Configuracoes
         {
             try
             {
-                connection = new MySqlConnection($"server={_servidor};database={_bancoDadosNome};port={_porta};user={_usuario};password={_senha}");
+                connection = new MySqlConnection($"server={_servidor};database={_bancoDadosNome};port={_porta};user={_ususario};password={_senha}");
                 connection.Open();
             }
             catch (Exception e)
@@ -32,6 +30,7 @@ namespace EMPRESA_X2A.Configuracoes
                 throw e;
             }
         }
+
         public MySqlCommand Comando(string comando)
         {
             try

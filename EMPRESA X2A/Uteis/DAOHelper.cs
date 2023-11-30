@@ -7,8 +7,17 @@ using System.Threading.Tasks;
 
 namespace EMPRESA_X2A.Uteis
 {
-    internal class DADHeper
+    static class DAOHelper
     {
+        public static int GetInt(MySqlDataReader reader, string column_name)
+        {
+            int numero = 0;
+
+            if (!reader.IsDBNull(reader.GetOrdinal(column_name)))
+                numero = reader.GetInt32(column_name);
+
+            return numero;
+        }
         public static string GetString(MySqlDataReader reader, string column_name)
         {
             string text = string.Empty;

@@ -8,27 +8,25 @@ namespace EMPRESA_X2A.Classes
 {
     internal class dadosEmp
     {
+        public int Id { get; set; }
         public string Cnpj {  get; set; }
         public string razaoSocial { get; set; }
         public string nomeFantasia { get; set; }
         public string telefone {  get; set; }
-        public string capitalSoial { get; set; }
+        public Double capitalSoial { get; set; }
         public string situacaoCadastral { get; set; }
         public string nomeProprietario { get; set; }
         public string cpfProprietario { get; set; }
-        public DateTime inicioAtividade { get; set; }
+        public DateTime? inicioAtividade { get; set; }
         public string naturezaJuridica { get; set; }
         public string tipoEmpresa { get; set; }
         public string regimeTributario { get; set; }
         public string porteEMpresa { get; set; }
-        public string Cep { get; set; }
         public string Logradouro { get; set; }
-        public int Numero { get; set; }
-        public string Bairro { get; set; }
         public string Estado { get; set; }
         public string Municipio { get; set; }
 
-        public dadosEmp(string cnpj, string razaoSocial, string nomeFantasia, string telefone, string capitalSoial, string situacaoCadastral, string nomeProprietario, string cpfProprietario, DateTime inicioAtividade, string naturezaJuridica, string tipoEmpresa, string regimeTributario, string porteEMpresa, string cep, string logradouro, int numero, string bairro, string estado, string municipio)
+        public dadosEmp(string cnpj, string razaoSocial, string nomeFantasia, string telefone, double capitalSoial, string situacaoCadastral, string nomeProprietario, string cpfProprietario, DateTime? inicioAtividade, string naturezaJuridica, string tipoEmpresa, string regimeTributario, string porteEMpresa, string cep, string logradouro, int numero, string bairro, string estado, string municipio)
         {
             Cnpj = cnpj;
             this.razaoSocial = razaoSocial;
@@ -43,10 +41,7 @@ namespace EMPRESA_X2A.Classes
             this.tipoEmpresa = tipoEmpresa;
             this.regimeTributario = regimeTributario;
             this.porteEMpresa = porteEMpresa;
-            Cep = cep;
             Logradouro = logradouro;
-            Numero = numero;
-            Bairro = bairro;
             Estado = estado;
             Municipio = municipio;
         }
