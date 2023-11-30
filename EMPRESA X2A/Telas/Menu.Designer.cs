@@ -64,7 +64,7 @@
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.label1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(23)))), ((int)(((byte)(48)))), ((int)(((byte)(124)))));
             this.label1.Location = new System.Drawing.Point(14, 5);
             this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label1.Name = "label1";
@@ -110,7 +110,7 @@
             this.Empresa.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
             this.Empresa.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
             this.Empresa.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
-            this.Empresa.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.Empresa.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(23)))), ((int)(((byte)(48)))), ((int)(((byte)(124)))));
             this.Empresa.Font = new System.Drawing.Font("Century Gothic", 9F, System.Drawing.FontStyle.Bold);
             this.Empresa.ForeColor = System.Drawing.Color.White;
             this.Empresa.Location = new System.Drawing.Point(660, 0);
@@ -128,7 +128,7 @@
             this.Funcionário.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
             this.Funcionário.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
             this.Funcionário.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
-            this.Funcionário.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.Funcionário.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(23)))), ((int)(((byte)(48)))), ((int)(((byte)(124)))));
             this.Funcionário.Font = new System.Drawing.Font("Century Gothic", 9F, System.Drawing.FontStyle.Bold);
             this.Funcionário.ForeColor = System.Drawing.Color.White;
             this.Funcionário.Location = new System.Drawing.Point(912, 0);
@@ -174,9 +174,8 @@
             // 
             // painelMenu
             // 
-            this.painelMenu.BackColor = System.Drawing.Color.White;
-            this.painelMenu.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("painelMenu.BackgroundImage")));
-            this.painelMenu.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
+            this.painelMenu.BackColor = System.Drawing.Color.Transparent;
+            this.painelMenu.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
             this.painelMenu.Dock = System.Windows.Forms.DockStyle.Fill;
             this.painelMenu.Location = new System.Drawing.Point(0, 78);
             this.painelMenu.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);

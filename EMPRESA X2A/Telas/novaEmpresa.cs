@@ -180,57 +180,9 @@ namespace EMPRESA_X2A
 
         }
 
-        //TROCAR DADOS PARA DADOS DA EMPRESA
-        /*
-        private void Inserir(dadosFun fun)
+        private void txt_cnpj_TextChanged(object sender, EventArgs e)
         {
-            try
-            {
 
-                Conexao conexao = new Conexao();
-                var comando = conexao.Comando("INSERT INTO funcionario (nome_fun,cpf_fun,rg_fun,data_nasc_fun,email_fun,telefone1_fun," +
-                "telefone2_fun,genero_fun,estado_civil,cep_fun,logradouro_fun,numero_fun,bairro_fun,estado_fun,municipio_fun," +
-                "cargo_fun,departamento_fun,data_admissao_fun,banco_fun,salario_fun,agencia_fun,conta_fun) VALUES (@nome,@cpf,@rg,@dataNasc," +
-                "@email,@telefone1,@telefone2,@genero,@estadoCivil,@cep,@logradouro,@numero,@bairoo,@estado,@municipio,@cargo,@departamento," +
-                "@dataAdmissao,@banco,@salario,@agencia,@conta");
-
-                comando.Parameters.AddWithValue("@nome", fun.Nome);
-                comando.Parameters.AddWithValue("@cpf", fun.Cpf);
-                comando.Parameters.AddWithValue("@rg", fun.Rg);
-                comando.Parameters.AddWithValue("@dataNasc", fun.dataNasc);
-                comando.Parameters.AddWithValue("@email", fun.Email);
-                comando.Parameters.AddWithValue("@telefone1", fun.Telefone1);
-                comando.Parameters.AddWithValue("@telefone2", fun.Telefone2);
-                comando.Parameters.AddWithValue("@genero", fun.Genero);
-                comando.Parameters.AddWithValue("@estadoCivil", fun.estadoCivil);
-                comando.Parameters.AddWithValue("@cep", fun.Cep);
-                comando.Parameters.AddWithValue("@logradouro", fun.Logradouro);
-                comando.Parameters.AddWithValue("@numero", fun.Numero);
-                comando.Parameters.AddWithValue("@bairro", fun.Bairro);
-                comando.Parameters.AddWithValue("@estado", fun.Estado);
-                comando.Parameters.AddWithValue("@municipio", fun.Municipio);
-                comando.Parameters.AddWithValue("@cargo", fun.Cargo);
-                comando.Parameters.AddWithValue("@departamento", fun.Departamento);
-                comando.Parameters.AddWithValue("@dataAdmissao", fun.DataAdmissao);
-                comando.Parameters.AddWithValue("@banco", fun.Banco);
-                comando.Parameters.AddWithValue("@salario", fun.Salario);
-                comando.Parameters.AddWithValue("@agencia", fun.Agencia);
-                comando.Parameters.AddWithValue("@conta", fun.Conta);
-
-                var resultado = comando.ExecuteNonQuery();
-                if (resultado > 0)
-                {
-                    MessageBox.Show("Funcionário cadastrado com sucesso");
-                }
-
-                Consultar();
-
-            }
-            catch (Exception ex)
-            {
-                MessageBox.Show(ex.Message);
-            }
-
-        }*/
+        }
     }
 }

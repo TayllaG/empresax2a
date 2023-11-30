@@ -57,6 +57,7 @@
             this.txt_cancelar = new Guna.UI2.WinForms.Guna2Button();
             this.Salvar = new Guna.UI2.WinForms.Guna2Button();
             this.label3 = new System.Windows.Forms.Label();
+            this.label2 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // txt_salario
@@ -71,12 +72,13 @@
             this.txt_salario.FocusedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
             this.txt_salario.Font = new System.Drawing.Font("Segoe UI", 9F);
             this.txt_salario.HoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
-            this.txt_salario.Location = new System.Drawing.Point(353, 275);
+            this.txt_salario.Location = new System.Drawing.Point(498, 505);
+            this.txt_salario.Margin = new System.Windows.Forms.Padding(6, 8, 6, 8);
             this.txt_salario.Name = "txt_salario";
             this.txt_salario.PasswordChar = '\0';
             this.txt_salario.PlaceholderText = "";
             this.txt_salario.SelectedText = "";
-            this.txt_salario.Size = new System.Drawing.Size(109, 17);
+            this.txt_salario.Size = new System.Drawing.Size(164, 26);
             this.txt_salario.TabIndex = 295;
             // 
             // txt_municipio
@@ -91,12 +93,13 @@
             this.txt_municipio.FocusedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
             this.txt_municipio.Font = new System.Drawing.Font("Segoe UI", 9F);
             this.txt_municipio.HoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
-            this.txt_municipio.Location = new System.Drawing.Point(484, 198);
+            this.txt_municipio.Location = new System.Drawing.Point(721, 316);
+            this.txt_municipio.Margin = new System.Windows.Forms.Padding(6, 8, 6, 8);
             this.txt_municipio.Name = "txt_municipio";
             this.txt_municipio.PasswordChar = '\0';
             this.txt_municipio.PlaceholderText = "";
             this.txt_municipio.SelectedText = "";
-            this.txt_municipio.Size = new System.Drawing.Size(172, 20);
+            this.txt_municipio.Size = new System.Drawing.Size(258, 31);
             this.txt_municipio.TabIndex = 294;
             // 
             // txt_cargo
@@ -121,10 +124,9 @@
             "Coordenador",
             "Coordenação pedagógica",
             ""});
-            this.txt_cargo.Location = new System.Drawing.Point(22, 293);
-            this.txt_cargo.Margin = new System.Windows.Forms.Padding(2);
+            this.txt_cargo.Location = new System.Drawing.Point(42, 505);
             this.txt_cargo.Name = "txt_cargo";
-            this.txt_cargo.Size = new System.Drawing.Size(206, 26);
+            this.txt_cargo.Size = new System.Drawing.Size(307, 26);
             this.txt_cargo.TabIndex = 293;
             // 
             // label29
@@ -132,10 +134,9 @@
             this.label29.AutoSize = true;
             this.label29.Font = new System.Drawing.Font("Century Gothic", 8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label29.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.label29.Location = new System.Drawing.Point(353, 258);
-            this.label29.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.label29.Location = new System.Drawing.Point(494, 480);
             this.label29.Name = "label29";
-            this.label29.Size = new System.Drawing.Size(44, 15);
+            this.label29.Size = new System.Drawing.Size(62, 19);
             this.label29.TabIndex = 287;
             this.label29.Text = "Salário";
             // 
@@ -144,10 +145,9 @@
             this.label24.AutoSize = true;
             this.label24.Font = new System.Drawing.Font("Century Gothic", 8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label24.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.label24.Location = new System.Drawing.Point(24, 277);
-            this.label24.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.label24.Location = new System.Drawing.Point(45, 480);
             this.label24.Name = "label24";
-            this.label24.Size = new System.Drawing.Size(40, 15);
+            this.label24.Size = new System.Drawing.Size(58, 19);
             this.label24.TabIndex = 280;
             this.label24.Text = "Cargo";
             // 
@@ -156,10 +156,9 @@
             this.label30.AutoSize = true;
             this.label30.Font = new System.Drawing.Font("Century Gothic", 8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label30.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.label30.Location = new System.Drawing.Point(406, 83);
-            this.label30.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.label30.Location = new System.Drawing.Point(609, 170);
             this.label30.Name = "label30";
-            this.label30.Size = new System.Drawing.Size(67, 15);
+            this.label30.Size = new System.Drawing.Size(94, 19);
             this.label30.TabIndex = 277;
             this.label30.Text = "Estado civil";
             // 
@@ -201,10 +200,9 @@
             "São Paulo",
             "Sergipe",
             "Tocantins"});
-            this.txt_estado.Location = new System.Drawing.Point(260, 194);
-            this.txt_estado.Margin = new System.Windows.Forms.Padding(2);
+            this.txt_estado.Location = new System.Drawing.Point(394, 316);
             this.txt_estado.Name = "txt_estado";
-            this.txt_estado.Size = new System.Drawing.Size(169, 26);
+            this.txt_estado.Size = new System.Drawing.Size(252, 26);
             this.txt_estado.TabIndex = 276;
             // 
             // txt_logradouro
@@ -219,12 +217,13 @@
             this.txt_logradouro.FocusedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
             this.txt_logradouro.Font = new System.Drawing.Font("Segoe UI", 9F);
             this.txt_logradouro.HoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
-            this.txt_logradouro.Location = new System.Drawing.Point(25, 199);
+            this.txt_logradouro.Location = new System.Drawing.Point(38, 317);
+            this.txt_logradouro.Margin = new System.Windows.Forms.Padding(6, 8, 6, 8);
             this.txt_logradouro.Name = "txt_logradouro";
             this.txt_logradouro.PasswordChar = '\0';
             this.txt_logradouro.PlaceholderText = "";
             this.txt_logradouro.SelectedText = "";
-            this.txt_logradouro.Size = new System.Drawing.Size(172, 18);
+            this.txt_logradouro.Size = new System.Drawing.Size(258, 28);
             this.txt_logradouro.TabIndex = 274;
             // 
             // label19
@@ -232,10 +231,9 @@
             this.label19.AutoSize = true;
             this.label19.Font = new System.Drawing.Font("Century Gothic", 8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label19.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.label19.Location = new System.Drawing.Point(25, 181);
-            this.label19.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.label19.Location = new System.Drawing.Point(38, 289);
             this.label19.Name = "label19";
-            this.label19.Size = new System.Drawing.Size(69, 15);
+            this.label19.Size = new System.Drawing.Size(99, 19);
             this.label19.TabIndex = 272;
             this.label19.Text = "Logradouro";
             // 
@@ -244,10 +242,9 @@
             this.label17.AutoSize = true;
             this.label17.Font = new System.Drawing.Font("Century Gothic", 8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label17.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.label17.Location = new System.Drawing.Point(260, 180);
-            this.label17.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.label17.Location = new System.Drawing.Point(407, 289);
             this.label17.Name = "label17";
-            this.label17.Size = new System.Drawing.Size(42, 15);
+            this.label17.Size = new System.Drawing.Size(59, 19);
             this.label17.TabIndex = 270;
             this.label17.Text = "Estado";
             // 
@@ -256,10 +253,9 @@
             this.label16.AutoSize = true;
             this.label16.Font = new System.Drawing.Font("Century Gothic", 8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label16.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.label16.Location = new System.Drawing.Point(486, 183);
-            this.label16.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.label16.Location = new System.Drawing.Point(729, 289);
             this.label16.Name = "label16";
-            this.label16.Size = new System.Drawing.Size(61, 15);
+            this.label16.Size = new System.Drawing.Size(86, 19);
             this.label16.TabIndex = 269;
             this.label16.Text = "Munícipio";
             // 
@@ -268,38 +264,34 @@
             this.label13.AutoSize = true;
             this.label13.Font = new System.Drawing.Font("Century Gothic", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label13.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.label13.Location = new System.Drawing.Point(24, 158);
-            this.label13.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.label13.Location = new System.Drawing.Point(36, 254);
             this.label13.Name = "label13";
-            this.label13.Size = new System.Drawing.Size(72, 17);
+            this.label13.Size = new System.Drawing.Size(103, 23);
             this.label13.TabIndex = 266;
             this.label13.Text = "Endereço";
             // 
             // txt_rg
             // 
-            this.txt_rg.Location = new System.Drawing.Point(156, 98);
-            this.txt_rg.Margin = new System.Windows.Forms.Padding(2);
+            this.txt_rg.Location = new System.Drawing.Point(234, 193);
             this.txt_rg.Mask = "00,00,000";
             this.txt_rg.Name = "txt_rg";
-            this.txt_rg.Size = new System.Drawing.Size(55, 20);
+            this.txt_rg.Size = new System.Drawing.Size(80, 26);
             this.txt_rg.TabIndex = 265;
             // 
             // txt_telefone1
             // 
-            this.txt_telefone1.Location = new System.Drawing.Point(274, 98);
-            this.txt_telefone1.Margin = new System.Windows.Forms.Padding(2);
+            this.txt_telefone1.Location = new System.Drawing.Point(411, 193);
             this.txt_telefone1.Mask = "(99) 0000-0000";
             this.txt_telefone1.Name = "txt_telefone1";
-            this.txt_telefone1.Size = new System.Drawing.Size(83, 20);
+            this.txt_telefone1.Size = new System.Drawing.Size(122, 26);
             this.txt_telefone1.TabIndex = 263;
             // 
             // txt_cpf
             // 
-            this.txt_cpf.Location = new System.Drawing.Point(24, 98);
-            this.txt_cpf.Margin = new System.Windows.Forms.Padding(2);
+            this.txt_cpf.Location = new System.Drawing.Point(36, 193);
             this.txt_cpf.Mask = "000,000,000-00";
             this.txt_cpf.Name = "txt_cpf";
-            this.txt_cpf.Size = new System.Drawing.Size(87, 20);
+            this.txt_cpf.Size = new System.Drawing.Size(128, 26);
             this.txt_cpf.TabIndex = 262;
             this.txt_cpf.MaskInputRejected += new System.Windows.Forms.MaskInputRejectedEventHandler(this.txt_cpf_MaskInputRejected);
             // 
@@ -319,10 +311,9 @@
             "Casado",
             "Divorciado",
             "Viúvo"});
-            this.txt_estadoCivil.Location = new System.Drawing.Point(401, 97);
-            this.txt_estadoCivil.Margin = new System.Windows.Forms.Padding(2);
+            this.txt_estadoCivil.Location = new System.Drawing.Point(602, 191);
             this.txt_estadoCivil.Name = "txt_estadoCivil";
-            this.txt_estadoCivil.Size = new System.Drawing.Size(151, 26);
+            this.txt_estadoCivil.Size = new System.Drawing.Size(224, 26);
             this.txt_estadoCivil.TabIndex = 261;
             // 
             // txt_email
@@ -337,27 +328,27 @@
             this.txt_email.FocusedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
             this.txt_email.Font = new System.Drawing.Font("Segoe UI", 9F);
             this.txt_email.HoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
-            this.txt_email.Location = new System.Drawing.Point(24, 246);
+            this.txt_email.Location = new System.Drawing.Point(42, 389);
+            this.txt_email.Margin = new System.Windows.Forms.Padding(6, 8, 6, 8);
             this.txt_email.Name = "txt_email";
             this.txt_email.PasswordChar = '\0';
             this.txt_email.PlaceholderText = "";
             this.txt_email.SelectedText = "";
-            this.txt_email.Size = new System.Drawing.Size(239, 16);
+            this.txt_email.Size = new System.Drawing.Size(358, 25);
             this.txt_email.TabIndex = 258;
             // 
             // txt_dataNasc
             // 
             this.txt_dataNasc.Checked = true;
-            this.txt_dataNasc.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.txt_dataNasc.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(23)))), ((int)(((byte)(48)))), ((int)(((byte)(124)))));
             this.txt_dataNasc.Font = new System.Drawing.Font("Segoe UI", 9F);
             this.txt_dataNasc.ForeColor = System.Drawing.Color.White;
             this.txt_dataNasc.Format = System.Windows.Forms.DateTimePickerFormat.Short;
-            this.txt_dataNasc.Location = new System.Drawing.Point(386, 53);
-            this.txt_dataNasc.Margin = new System.Windows.Forms.Padding(2);
+            this.txt_dataNasc.Location = new System.Drawing.Point(579, 124);
             this.txt_dataNasc.MaxDate = new System.DateTime(9998, 12, 31, 0, 0, 0, 0);
             this.txt_dataNasc.MinDate = new System.DateTime(1753, 1, 1, 0, 0, 0, 0);
             this.txt_dataNasc.Name = "txt_dataNasc";
-            this.txt_dataNasc.Size = new System.Drawing.Size(167, 21);
+            this.txt_dataNasc.Size = new System.Drawing.Size(250, 32);
             this.txt_dataNasc.TabIndex = 257;
             this.txt_dataNasc.Value = new System.DateTime(2023, 10, 30, 23, 15, 53, 368);
             // 
@@ -373,12 +364,13 @@
             this.txt_nome.FocusedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
             this.txt_nome.Font = new System.Drawing.Font("Segoe UI", 9F);
             this.txt_nome.HoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
-            this.txt_nome.Location = new System.Drawing.Point(23, 53);
+            this.txt_nome.Location = new System.Drawing.Point(34, 124);
+            this.txt_nome.Margin = new System.Windows.Forms.Padding(6, 8, 6, 8);
             this.txt_nome.Name = "txt_nome";
             this.txt_nome.PasswordChar = '\0';
             this.txt_nome.PlaceholderText = "";
             this.txt_nome.SelectedText = "";
-            this.txt_nome.Size = new System.Drawing.Size(309, 16);
+            this.txt_nome.Size = new System.Drawing.Size(464, 25);
             this.txt_nome.TabIndex = 256;
             // 
             // label10
@@ -386,10 +378,9 @@
             this.label10.AutoSize = true;
             this.label10.Font = new System.Drawing.Font("Century Gothic", 8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label10.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.label10.Location = new System.Drawing.Point(383, 39);
-            this.label10.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.label10.Location = new System.Drawing.Point(574, 102);
             this.label10.Name = "label10";
-            this.label10.Size = new System.Drawing.Size(99, 15);
+            this.label10.Size = new System.Drawing.Size(143, 19);
             this.label10.TabIndex = 255;
             this.label10.Text = "Data Nascimento";
             // 
@@ -398,10 +389,9 @@
             this.label9.AutoSize = true;
             this.label9.Font = new System.Drawing.Font("Century Gothic", 8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label9.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.label9.Location = new System.Drawing.Point(153, 84);
-            this.label9.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.label9.Location = new System.Drawing.Point(230, 171);
             this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(21, 15);
+            this.label9.Size = new System.Drawing.Size(29, 19);
             this.label9.TabIndex = 254;
             this.label9.Text = "Rg";
             // 
@@ -410,10 +400,9 @@
             this.label8.AutoSize = true;
             this.label8.Font = new System.Drawing.Font("Century Gothic", 8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label8.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.label8.Location = new System.Drawing.Point(23, 84);
-            this.label8.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.label8.Location = new System.Drawing.Point(34, 171);
             this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(25, 15);
+            this.label8.Size = new System.Drawing.Size(36, 19);
             this.label8.TabIndex = 253;
             this.label8.Text = "Cpf";
             // 
@@ -422,10 +411,9 @@
             this.label6.AutoSize = true;
             this.label6.Font = new System.Drawing.Font("Century Gothic", 8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label6.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.label6.Location = new System.Drawing.Point(35, 228);
-            this.label6.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.label6.Location = new System.Drawing.Point(39, 362);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(35, 15);
+            this.label6.Size = new System.Drawing.Size(52, 19);
             this.label6.TabIndex = 251;
             this.label6.Text = "Email";
             // 
@@ -434,10 +422,9 @@
             this.label5.AutoSize = true;
             this.label5.Font = new System.Drawing.Font("Century Gothic", 8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label5.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.label5.Location = new System.Drawing.Point(271, 85);
-            this.label5.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.label5.Location = new System.Drawing.Point(406, 173);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(53, 15);
+            this.label5.Size = new System.Drawing.Size(74, 19);
             this.label5.TabIndex = 250;
             this.label5.Text = "Telefone";
             // 
@@ -446,22 +433,20 @@
             this.label4.AutoSize = true;
             this.label4.Font = new System.Drawing.Font("Century Gothic", 8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label4.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.label4.Location = new System.Drawing.Point(30, 37);
-            this.label4.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.label4.Location = new System.Drawing.Point(34, 97);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(39, 15);
+            this.label4.Size = new System.Drawing.Size(57, 19);
             this.label4.TabIndex = 249;
             this.label4.Text = "Nome";
             // 
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Century Gothic", 11F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.label1.Location = new System.Drawing.Point(20, 6);
-            this.label1.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.label1.Location = new System.Drawing.Point(30, 26);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(187, 18);
+            this.label1.Size = new System.Drawing.Size(295, 28);
             this.label1.TabIndex = 246;
             this.label1.Text = "Cadastro do funcionário";
             // 
@@ -476,10 +461,9 @@
             this.txt_cancelar.FillColor = System.Drawing.Color.White;
             this.txt_cancelar.Font = new System.Drawing.Font("Century Gothic", 9F, System.Drawing.FontStyle.Bold);
             this.txt_cancelar.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.txt_cancelar.Location = new System.Drawing.Point(629, 369);
-            this.txt_cancelar.Margin = new System.Windows.Forms.Padding(2);
+            this.txt_cancelar.Location = new System.Drawing.Point(944, 568);
             this.txt_cancelar.Name = "txt_cancelar";
-            this.txt_cancelar.Size = new System.Drawing.Size(119, 25);
+            this.txt_cancelar.Size = new System.Drawing.Size(178, 38);
             this.txt_cancelar.TabIndex = 245;
             this.txt_cancelar.Text = "Cancelar";
             this.txt_cancelar.Click += new System.EventHandler(this.txt_cancelar_Click);
@@ -491,13 +475,12 @@
             this.Salvar.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
             this.Salvar.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
             this.Salvar.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
-            this.Salvar.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.Salvar.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(23)))), ((int)(((byte)(48)))), ((int)(((byte)(124)))));
             this.Salvar.Font = new System.Drawing.Font("Century Gothic", 9F, System.Drawing.FontStyle.Bold);
             this.Salvar.ForeColor = System.Drawing.Color.White;
-            this.Salvar.Location = new System.Drawing.Point(507, 369);
-            this.Salvar.Margin = new System.Windows.Forms.Padding(2);
+            this.Salvar.Location = new System.Drawing.Point(760, 568);
             this.Salvar.Name = "Salvar";
-            this.Salvar.Size = new System.Drawing.Size(111, 25);
+            this.Salvar.Size = new System.Drawing.Size(166, 38);
             this.Salvar.TabIndex = 244;
             this.Salvar.Text = "Salvar";
             this.Salvar.Click += new System.EventHandler(this.Salvar_Click);
@@ -506,19 +489,30 @@
             // 
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Century Gothic", 8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label3.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.label3.Location = new System.Drawing.Point(21, 23);
-            this.label3.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.label3.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(23)))), ((int)(((byte)(48)))), ((int)(((byte)(124)))));
+            this.label3.Location = new System.Drawing.Point(33, 60);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(181, 15);
+            this.label3.Size = new System.Drawing.Size(263, 19);
             this.label3.TabIndex = 248;
             this.label3.Text = "Documentos para a contratação";
             // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Font = new System.Drawing.Font("Century Gothic", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label2.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.label2.Location = new System.Drawing.Point(34, 447);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(234, 23);
+            this.label2.TabIndex = 296;
+            this.label2.Text = "Dados para a empresa";
+            // 
             // novoFuncionario
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(775, 416);
+            this.ClientSize = new System.Drawing.Size(1162, 640);
+            this.Controls.Add(this.label2);
             this.Controls.Add(this.txt_salario);
             this.Controls.Add(this.txt_municipio);
             this.Controls.Add(this.txt_cargo);
@@ -549,7 +543,6 @@
             this.Controls.Add(this.txt_cancelar);
             this.Controls.Add(this.Salvar);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
-            this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "novoFuncionario";
             this.Text = "novoFuncionario";
             this.Load += new System.EventHandler(this.novoFuncionario_Load);
@@ -589,5 +582,6 @@
         private Guna.UI2.WinForms.Guna2Button txt_cancelar;
         private Guna.UI2.WinForms.Guna2Button Salvar;
         private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.Label label2;
     }
 }
